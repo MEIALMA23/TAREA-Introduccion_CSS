@@ -1,0 +1,37 @@
+.lista-colores{
+    list-style-type: none;
+    background-color: lightgrey;
+    margin: 0%;
+    padding: 1%;
+}
+
+.color-1 {
+    color: red;
+    border: solid;
+    margin: 1%;
+    padding: 2%;
+}
+.color-2 {
+    color: green;
+    border: solid;
+    margin: 1%;
+    padding: 2%;
+}
+.color-3 {
+    color: blue;
+    border: solid;
+    margin: 1%;
+    padding: 2%;
+}
+
+div{
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+}
+.btn-primary,.btn-secondary{
+    margin: 2%;
+    padding: 2%;
+}
+    
+   
